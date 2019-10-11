@@ -1,0 +1,20 @@
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csprojResolveAssemblyReference.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.frmCLIENT.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.pdb
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.exe.config
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.exe
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.pdb
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.frmCLIENT.resources
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.exe
+D:\MÔN HỌC\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.pdb
